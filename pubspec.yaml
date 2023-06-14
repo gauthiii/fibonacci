@@ -1,6 +1,6 @@
 name: fibonacci
 description: This package helps to print the fibonacci series upto n numbers in the dart language. It can also find the nth number in the fibonacci series.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/gauthiii/fibonacci
 
 environment:

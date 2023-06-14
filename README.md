@@ -16,6 +16,8 @@ It's a basic implementation of the printing the fibonacci series upto N numbers.
 
 For example: 4th index of the series is 2. So if you input 4, 2 would be the output.
 
+
+
 <p>
 <img src="https://github.com/gauthiii/fibonacci/assets/35861219/22fb5364-6618-44ce-806c-0c50379966ec" height="400">
   <img src="https://github.com/gauthiii/fibonacci/assets/35861219/80fe8304-af4f-4cc8-94ac-1c09e2d463c3" height="400">
@@ -27,7 +29,7 @@ For example: 4th index of the series is 2. So if you input 4, 2 would be the out
 
 ```yaml
 dependecies:
-  fibonacci: 0.0.1
+  fibonacci: 0.0.2
 ```
 
 ## Example
